@@ -11,11 +11,16 @@ As aulas e questões funcionam localmente; referências, PDFs externos, fontes t
 ## Recursos
 
 - Drawer por disciplina, busca sem distinção de acentos e navegação direta por aula.
+- Visual preto e roxo escuro por padrão, fonte Montserrat e menu com letras maiores; tema claro opcional.
+- 114 flashcards (dois por aula), filtros de disciplina/aula e revisão, revelação da resposta e agendamento de revisões conforme a autoavaliação.
+- Caixas de foco do edital, pegadinhas conceituais e dicas nas 57 aulas. São orientações editoriais, sem alegação de frequência estatística da CETAP.
+- Aba Provas CETAP com BANPARÁ 2025 (Desenvolvimento, Prova 1) e MPCM/PA 2015 (Analista de Sistemas, Desenvolvimento), cadernos externos e folha de respostas interativa. Cargos equivalentes de outros órgãos, não provas anteriores da ALEPA. BANPARÁ usa gabarito definitivo retificado; MPCM usa preliminar retificado e resultado provisório.
 - Teoria, exemplos, referências oficiais e videoaulas externas.
 - Dez questões autorais por aula, cinco alternativas, correção imediata e explicação.
 - Área separada de questões históricas verificadas, com origem e gabarito revelado sob comando. Nos itens com enunciado externo, abra o caderno na questão indicada e registre a resposta no site.
 - Anotações, marcação de conclusão, percentual de acertos e tema escuro.
 - Exportação/importação de progresso em JSON. O armazenamento é local ao navegador e à origem: não há sincronização automática entre celular, computador e arquivos locais. Limpar os dados do navegador pode apagar o progresso.
+- As revisões dos flashcards e tentativas de provas também entram na exportação. Questões anuladas são excluídas do denominador do treino; questões válidas em branco não pontuam. A correção só aparece ao finalizar a prova.
 - 57 aulas e 570 exercícios autorais, distribuídos pelas cinco disciplinas do cargo.
 - Catálogo dos 65 atos internos do edital, com 68 documentos para leitura no site, links oficiais e identificação das numerações duplicadas no banco da ALEPA.
 
