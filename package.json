@@ -1,0 +1,7 @@
+{
+  "name": "trilha-alepa-programacao",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "start": "node server.mjs", "test": "node verify.mjs", "build": "node build.mjs" },
+  "devDependencies": { "jsdom": "^29.0.0" }
+}

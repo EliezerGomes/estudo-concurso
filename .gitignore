@@ -1,0 +1,4 @@
+.tools/
+tmp/
+*.zip
+node_modules/
