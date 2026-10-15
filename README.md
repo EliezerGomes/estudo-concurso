@@ -17,6 +17,12 @@ Depois, abra `index.html` ou siga as instruções abaixo. O site funciona sem in
 
 ## Abrir
 
+### GitHub Pages
+
+A publicação estática usa a branch `codex/trilha-alepa`, pasta `/` (raiz), em `https://eliezergomes.github.io/estudo-concurso/`. Ative essa origem em **Settings → Pages → Deploy from a branch**. O arquivo `.nojekyll` permite servir HTML, CSS e JavaScript diretamente. Depois de habilitado, novos pushes nessa branch atualizam a hospedagem automaticamente.
+
+O site publicado no GitHub Pages é público. Anotações e respostas continuam armazenadas apenas no navegador de cada visitante.
+
 Abra `index.html` no navegador. Não há servidor de aplicação, banco de dados ou chave de API. Para servir em rede local, opcionalmente execute `npm start` e acesse `http://localhost:4173`. No celular, conectado à mesma rede, use o IP do computador e a porta 4173, se permitido pelo firewall. A publicação hospedada é uma alternativa ao servidor local.
 
 As aulas e questões funcionam localmente; referências, PDFs externos, fontes tipográficas e vídeos precisam de internet. A interface tem fontes de sistema como alternativa. O navegador pode bloquear alguns vídeos incorporados; existe também link para abrir o vídeo original.
