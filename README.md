@@ -2,6 +2,19 @@
 
 Site estático em HTML, CSS e JavaScript, baseado no Anexo II enviado pelo usuário para o **cargo 05 — Analista Legislativo, Programação PL.AL.092**, concurso 002/2026 da ALEPA, banca Fundação CETAP.
 
+## Repositório
+
+Código-fonte: [EliezerGomes/estudo-concurso](https://github.com/EliezerGomes/estudo-concurso).
+
+Para obter uma cópia desta entrega:
+
+```text
+git clone --branch codex/trilha-alepa https://github.com/EliezerGomes/estudo-concurso.git
+cd estudo-concurso
+```
+
+Depois, abra `index.html` ou siga as instruções abaixo. O site funciona sem instalar dependências; `npm install` é necessário apenas para executar os testes de desenvolvimento.
+
 ## Abrir
 
 Abra `index.html` no navegador. Não há servidor de aplicação, banco de dados ou chave de API. Para servir em rede local, opcionalmente execute `npm start` e acesse `http://localhost:4173`. No celular, conectado à mesma rede, use o IP do computador e a porta 4173, se permitido pelo firewall. A publicação hospedada é uma alternativa ao servidor local.
